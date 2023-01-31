@@ -3,86 +3,6 @@
 # Awesome Interviews [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of lists of technical interview questions.
-
-[What makes for an awesome list?](awesome.md)
-
-Please read the [contribution guidelines](contributing.md) or [creating a list guide](create-list.md) if you want to contribute.
-
-### Table of Contents
-
-- [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
-  - [Android](#android)
-  - [AngularJS](#angularjs)
-  - [Angular](#angular)
-  - [BackboneJS](#backbonejs)
-  - [C++](#c)
-  - [C](#c-1)
-  - [C♯](#c-2)
-  - [.NET](#net)
-  - [Clojure](#clojure)
-  - [CSS](#css)
-  - [Cucumber](#cucumber)
-  - [Django](#django)
-  - [Docker](#docker)
-  - [Elastic](#elastic)
-  - [EmberJS](#emberjs)
-  - [Erlang](#erlang)
-  - [Golang](#golang)
-  - [GraphQl](#graphql)
-  - [HTML](#html)
-  - [Ionic](#ionic)
-  - [iOS](#ios)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [jQuery](#jquery)
-  - [Front-end build tools](#front-end-build-tools)
-  - [KnockoutJS](#knockoutjs)
-  - [Less](#less)
-  - [Lisp](#lisp)
-  - [NodeJS](#nodejs)
-  - [Objective-C](#objective-c)
-  - [PHP](#php)
-  - [Python](#python)
-  - [ReactJS](#reactjs)
-  - [Rails](#ruby-on-rails)
-  - [Ruby](#ruby)
-  - [Rust](#rust)
-  - [Sass](#sass)
-  - [Scala](#scala)
-  - [Shell](#shell)
-  - [Spark](#spark)
-  - [Swift](#swift)
-  - [Vue.js](#vuejs)
-  - [Wordpress](#wordpress)
-  - [TypeScript](#typescript)
-
-- [Database technologies](#database-technologies)
-  - [Cassandra](#cassandra)
-  - [Microsoft Access](#microsoft-access)
-  - [MongoDB](#mongodb)
-  - [MySQL](#mysql)
-  - [Neo4j](#neo4j)
-  - [Oracle](#oracle)
-  - [Postgres](#postgres)
-  - [SQL](#sql)
-  - [SQL Lite](#sql-lite)
-- [Caching technologies](#caching-technologies)
-  - [Memcached](#memcached)
-  - [Redis](#redis)
-
-- [OS](#os)
-  - [Linux](#linux)
-  - [Windows](#windows)
-- [Algorithms](#algorithms)
-- [Blockchain](#blockchain)
-- [Coding exercises](#coding-exercises)
-- [Comprehensive lists](#comprehensive-lists)
-- [Design patterns](#design-patterns)
-- [Data structures](#data-structures)
-- [Networks](#networks)
-- [Security](#security)
-- [Data Science](#data-science)
-
 ## Programming Languages/Frameworks/Platforms
 
 ### C++
@@ -194,13 +114,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Interview questions solved in python](https://github.com/roseperrone/interview-questions)
 * [7 Swift Coding Challenges to Practice Your Skills](https://www.makeuseof.com/tag/swift-coding-challenges/)
 
-## Comprehensive lists
-
-* [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-* [Front End Developer Interview Questions](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html)
-* [Front End Interview Handbook](https://frontendinterviewhandbook.com/)
-* [Some simple questions to interview potential backend candidates](https://github.com/starandtina/backend-interview-questions)
-
 ## Design Patterns
 * [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
 * [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
@@ -226,16 +139,3 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Information Security Interview Questions from Daniel Miessler](https://danielmiessler.com/study/infosec_interview_questions/)
 * [Top 50 Information Security Interview Questions for freshers and experts](http://resources.infosecinstitute.com/top-50-information-security-interview-questions/)
 
-## Data Science
-* [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
-* [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
-* [Top 45 Data Science Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
-* [Top 30 data science interview questions](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c)
-* [Top 100 Data science interview questions](https://www.datacamp.com/community/news/top-100-data-science-interview-questions-cc3lts7gj5j)
-* [Data Science Interview Questions](https://hackr.io/blog/data-science-interview-questions)
-* [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
-* [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/) 
-
-### License
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
